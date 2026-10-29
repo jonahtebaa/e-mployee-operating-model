@@ -4,6 +4,8 @@ A ChatGPT plugin by **Dr. Jonah Tebaa**, based on his book *[The E-mployee Opera
 
 **Open it in ChatGPT:** https://chatgpt.com/plugins/plugins_6ac8d1c31e2c8191916bf02267c441cf
 
+**Official page:** https://jonahtebaa.com/e-mployee-plugin/ (workflows, example prompts, support)
+
 It turns the book's leadership instruments into 15 guided workflows. CEOs and executives use them to decide which AI work deserves a defined role, then design how that work is directed, governed, measured and owned. Each workflow ends in a table, a verdict and a list of gaps a leadership team can decide on.
 
 | Workflow | Chapter |
